@@ -1,0 +1,26 @@
+C:\Users\Líder\Desktop\ProjetoProdutos\bin\Debug\netcoreapp3.1\ProjetoProdutos.exe
+C:\Users\Líder\Desktop\ProjetoProdutos\bin\Debug\netcoreapp3.1\ProjetoProdutos.deps.json
+C:\Users\Líder\Desktop\ProjetoProdutos\bin\Debug\netcoreapp3.1\ProjetoProdutos.runtimeconfig.json
+C:\Users\Líder\Desktop\ProjetoProdutos\bin\Debug\netcoreapp3.1\ProjetoProdutos.runtimeconfig.dev.json
+C:\Users\Líder\Desktop\ProjetoProdutos\bin\Debug\netcoreapp3.1\ProjetoProdutos.dll
+C:\Users\Líder\Desktop\ProjetoProdutos\bin\Debug\netcoreapp3.1\ProjetoProdutos.pdb
+C:\Users\Líder\Desktop\ProjetoProdutos\obj\Debug\netcoreapp3.1\ProjetoProdutos.csprojAssemblyReference.cache
+C:\Users\Líder\Desktop\ProjetoProdutos\obj\Debug\netcoreapp3.1\ProjetoProdutos.AssemblyInfoInputs.cache
+C:\Users\Líder\Desktop\ProjetoProdutos\obj\Debug\netcoreapp3.1\ProjetoProdutos.AssemblyInfo.cs
+C:\Users\Líder\Desktop\ProjetoProdutos\obj\Debug\netcoreapp3.1\ProjetoProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Líder\Desktop\ProjetoProdutos\obj\Debug\netcoreapp3.1\ProjetoProdutos.dll
+C:\Users\Líder\Desktop\ProjetoProdutos\obj\Debug\netcoreapp3.1\ProjetoProdutos.pdb
+C:\Users\Líder\Desktop\ProjetoProdutos\obj\Debug\netcoreapp3.1\ProjetoProdutos.genruntimeconfig.cache
+C:\Users\Líder\Desktop\ATIVIDADES SENAI\Liçoes do curso\ProjetoProdutos\bin\Debug\netcoreapp3.1\ProjetoProdutos.exe
+C:\Users\Líder\Desktop\ATIVIDADES SENAI\Liçoes do curso\ProjetoProdutos\bin\Debug\netcoreapp3.1\ProjetoProdutos.deps.json
+C:\Users\Líder\Desktop\ATIVIDADES SENAI\Liçoes do curso\ProjetoProdutos\bin\Debug\netcoreapp3.1\ProjetoProdutos.runtimeconfig.json
+C:\Users\Líder\Desktop\ATIVIDADES SENAI\Liçoes do curso\ProjetoProdutos\bin\Debug\netcoreapp3.1\ProjetoProdutos.runtimeconfig.dev.json
+C:\Users\Líder\Desktop\ATIVIDADES SENAI\Liçoes do curso\ProjetoProdutos\bin\Debug\netcoreapp3.1\ProjetoProdutos.dll
+C:\Users\Líder\Desktop\ATIVIDADES SENAI\Liçoes do curso\ProjetoProdutos\bin\Debug\netcoreapp3.1\ProjetoProdutos.pdb
+C:\Users\Líder\Desktop\ATIVIDADES SENAI\Liçoes do curso\ProjetoProdutos\obj\Debug\netcoreapp3.1\ProjetoProdutos.csprojAssemblyReference.cache
+C:\Users\Líder\Desktop\ATIVIDADES SENAI\Liçoes do curso\ProjetoProdutos\obj\Debug\netcoreapp3.1\ProjetoProdutos.AssemblyInfoInputs.cache
+C:\Users\Líder\Desktop\ATIVIDADES SENAI\Liçoes do curso\ProjetoProdutos\obj\Debug\netcoreapp3.1\ProjetoProdutos.AssemblyInfo.cs
+C:\Users\Líder\Desktop\ATIVIDADES SENAI\Liçoes do curso\ProjetoProdutos\obj\Debug\netcoreapp3.1\ProjetoProdutos.csproj.CoreCompileInputs.cache
+C:\Users\Líder\Desktop\ATIVIDADES SENAI\Liçoes do curso\ProjetoProdutos\obj\Debug\netcoreapp3.1\ProjetoProdutos.dll
+C:\Users\Líder\Desktop\ATIVIDADES SENAI\Liçoes do curso\ProjetoProdutos\obj\Debug\netcoreapp3.1\ProjetoProdutos.pdb
+C:\Users\Líder\Desktop\ATIVIDADES SENAI\Liçoes do curso\ProjetoProdutos\obj\Debug\netcoreapp3.1\ProjetoProdutos.genruntimeconfig.cache

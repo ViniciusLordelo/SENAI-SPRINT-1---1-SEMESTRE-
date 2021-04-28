@@ -1,0 +1,13 @@
+C:\Users\Líder\Desktop\objetoArgumento\bin\Debug\netcoreapp3.1\objetoArgumento.exe
+C:\Users\Líder\Desktop\objetoArgumento\bin\Debug\netcoreapp3.1\objetoArgumento.deps.json
+C:\Users\Líder\Desktop\objetoArgumento\bin\Debug\netcoreapp3.1\objetoArgumento.runtimeconfig.json
+C:\Users\Líder\Desktop\objetoArgumento\bin\Debug\netcoreapp3.1\objetoArgumento.runtimeconfig.dev.json
+C:\Users\Líder\Desktop\objetoArgumento\bin\Debug\netcoreapp3.1\objetoArgumento.dll
+C:\Users\Líder\Desktop\objetoArgumento\bin\Debug\netcoreapp3.1\objetoArgumento.pdb
+C:\Users\Líder\Desktop\objetoArgumento\obj\Debug\netcoreapp3.1\objetoArgumento.csprojAssemblyReference.cache
+C:\Users\Líder\Desktop\objetoArgumento\obj\Debug\netcoreapp3.1\objetoArgumento.AssemblyInfoInputs.cache
+C:\Users\Líder\Desktop\objetoArgumento\obj\Debug\netcoreapp3.1\objetoArgumento.AssemblyInfo.cs
+C:\Users\Líder\Desktop\objetoArgumento\obj\Debug\netcoreapp3.1\objetoArgumento.csproj.CoreCompileInputs.cache
+C:\Users\Líder\Desktop\objetoArgumento\obj\Debug\netcoreapp3.1\objetoArgumento.dll
+C:\Users\Líder\Desktop\objetoArgumento\obj\Debug\netcoreapp3.1\objetoArgumento.pdb
+C:\Users\Líder\Desktop\objetoArgumento\obj\Debug\netcoreapp3.1\objetoArgumento.genruntimeconfig.cache

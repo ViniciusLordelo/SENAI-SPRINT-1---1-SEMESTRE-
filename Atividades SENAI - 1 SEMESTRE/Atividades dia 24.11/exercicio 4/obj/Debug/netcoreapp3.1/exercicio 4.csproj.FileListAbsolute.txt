@@ -1,0 +1,13 @@
+C:\Users\Líder\Desktop\Atividades dia 23.11\exercicio 4\bin\Debug\netcoreapp3.1\exercicio 4.exe
+C:\Users\Líder\Desktop\Atividades dia 23.11\exercicio 4\bin\Debug\netcoreapp3.1\exercicio 4.deps.json
+C:\Users\Líder\Desktop\Atividades dia 23.11\exercicio 4\bin\Debug\netcoreapp3.1\exercicio 4.runtimeconfig.json
+C:\Users\Líder\Desktop\Atividades dia 23.11\exercicio 4\bin\Debug\netcoreapp3.1\exercicio 4.runtimeconfig.dev.json
+C:\Users\Líder\Desktop\Atividades dia 23.11\exercicio 4\bin\Debug\netcoreapp3.1\exercicio 4.dll
+C:\Users\Líder\Desktop\Atividades dia 23.11\exercicio 4\bin\Debug\netcoreapp3.1\exercicio 4.pdb
+C:\Users\Líder\Desktop\Atividades dia 23.11\exercicio 4\obj\Debug\netcoreapp3.1\exercicio 4.csprojAssemblyReference.cache
+C:\Users\Líder\Desktop\Atividades dia 23.11\exercicio 4\obj\Debug\netcoreapp3.1\exercicio 4.AssemblyInfoInputs.cache
+C:\Users\Líder\Desktop\Atividades dia 23.11\exercicio 4\obj\Debug\netcoreapp3.1\exercicio 4.AssemblyInfo.cs
+C:\Users\Líder\Desktop\Atividades dia 23.11\exercicio 4\obj\Debug\netcoreapp3.1\exercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\Líder\Desktop\Atividades dia 23.11\exercicio 4\obj\Debug\netcoreapp3.1\exercicio 4.dll
+C:\Users\Líder\Desktop\Atividades dia 23.11\exercicio 4\obj\Debug\netcoreapp3.1\exercicio 4.pdb
+C:\Users\Líder\Desktop\Atividades dia 23.11\exercicio 4\obj\Debug\netcoreapp3.1\exercicio 4.genruntimeconfig.cache

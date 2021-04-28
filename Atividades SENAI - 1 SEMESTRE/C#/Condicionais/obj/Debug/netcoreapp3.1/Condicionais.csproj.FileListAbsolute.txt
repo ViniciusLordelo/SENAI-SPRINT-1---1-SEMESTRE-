@@ -1,0 +1,13 @@
+C:\Users\Líder\Desktop\C#\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.exe
+C:\Users\Líder\Desktop\C#\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.deps.json
+C:\Users\Líder\Desktop\C#\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.runtimeconfig.json
+C:\Users\Líder\Desktop\C#\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.runtimeconfig.dev.json
+C:\Users\Líder\Desktop\C#\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.dll
+C:\Users\Líder\Desktop\C#\Condicionais\bin\Debug\netcoreapp3.1\Condicionais.pdb
+C:\Users\Líder\Desktop\C#\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.csprojAssemblyReference.cache
+C:\Users\Líder\Desktop\C#\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.AssemblyInfoInputs.cache
+C:\Users\Líder\Desktop\C#\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.AssemblyInfo.cs
+C:\Users\Líder\Desktop\C#\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Líder\Desktop\C#\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.dll
+C:\Users\Líder\Desktop\C#\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.pdb
+C:\Users\Líder\Desktop\C#\Condicionais\obj\Debug\netcoreapp3.1\Condicionais.genruntimeconfig.cache

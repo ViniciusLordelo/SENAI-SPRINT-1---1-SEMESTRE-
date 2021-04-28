@@ -1,0 +1,13 @@
+C:\Users\Líder\Desktop\Liçoes do curso\AULA 01.12\bin\Debug\netcoreapp3.1\AULA 01.12.exe
+C:\Users\Líder\Desktop\Liçoes do curso\AULA 01.12\bin\Debug\netcoreapp3.1\AULA 01.12.deps.json
+C:\Users\Líder\Desktop\Liçoes do curso\AULA 01.12\bin\Debug\netcoreapp3.1\AULA 01.12.runtimeconfig.json
+C:\Users\Líder\Desktop\Liçoes do curso\AULA 01.12\bin\Debug\netcoreapp3.1\AULA 01.12.runtimeconfig.dev.json
+C:\Users\Líder\Desktop\Liçoes do curso\AULA 01.12\bin\Debug\netcoreapp3.1\AULA 01.12.dll
+C:\Users\Líder\Desktop\Liçoes do curso\AULA 01.12\bin\Debug\netcoreapp3.1\AULA 01.12.pdb
+C:\Users\Líder\Desktop\Liçoes do curso\AULA 01.12\obj\Debug\netcoreapp3.1\AULA 01.12.csprojAssemblyReference.cache
+C:\Users\Líder\Desktop\Liçoes do curso\AULA 01.12\obj\Debug\netcoreapp3.1\AULA 01.12.AssemblyInfoInputs.cache
+C:\Users\Líder\Desktop\Liçoes do curso\AULA 01.12\obj\Debug\netcoreapp3.1\AULA 01.12.AssemblyInfo.cs
+C:\Users\Líder\Desktop\Liçoes do curso\AULA 01.12\obj\Debug\netcoreapp3.1\AULA 01.12.csproj.CoreCompileInputs.cache
+C:\Users\Líder\Desktop\Liçoes do curso\AULA 01.12\obj\Debug\netcoreapp3.1\AULA 01.12.dll
+C:\Users\Líder\Desktop\Liçoes do curso\AULA 01.12\obj\Debug\netcoreapp3.1\AULA 01.12.pdb
+C:\Users\Líder\Desktop\Liçoes do curso\AULA 01.12\obj\Debug\netcoreapp3.1\AULA 01.12.genruntimeconfig.cache
